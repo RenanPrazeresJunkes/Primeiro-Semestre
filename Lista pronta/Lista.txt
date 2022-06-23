@@ -1,4 +1,7 @@
-Exercícios em C++ que realizei para a aula de Lógica e Algoritimos.
+Lista exercícios Sérgio,
+Nomes: Felipe, Jankay e Renan
+
+
 1. A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as
 dimensões de um terreno e depois exibir a área do terreno.
 2. Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os
